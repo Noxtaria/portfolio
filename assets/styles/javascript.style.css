@@ -162,6 +162,14 @@ li:hover{
 
 }
 
+.img-rs{
+
+    width: 40px;
+    margin: 10px;
+    height: 40px;
+    
+}
+
 .projet .date-project{
 
     font-size: 0.7em;
